@@ -37,6 +37,8 @@ public class main {
                 length =mid -1;
             }
         }
+        //
+        //
     }
     //
 }
